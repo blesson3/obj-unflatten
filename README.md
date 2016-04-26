@@ -1,14 +1,18 @@
+
 # obj-unflatten [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/obj-unflatten.svg)](https://www.npmjs.com/package/obj-unflatten) [![Downloads](https://img.shields.io/npm/dt/obj-unflatten.svg)](https://www.npmjs.com/package/obj-unflatten) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Convert flatten objects in nested ones.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save obj-unflatten
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const unflatten = require("obj-unflatten");
@@ -29,7 +33,8 @@ console.log(unflatten({
 // { name: { first: 'Johnny', last: 'B.' }, age: 20 }
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `unflattenObject(flatten, separator)`
 Convert flatten objects in nested ones.
@@ -41,17 +46,18 @@ Convert flatten objects in nested ones.
 #### Return
 - **Object** Unflatten object
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-## Related
+## :sparkles: Related
 
  - [`obj-flatten`](https://github.com/IonicaBizau/obj-flatten) – Convert nested objects in flatten ones.
 
-## License
+
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
