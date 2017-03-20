@@ -1,6 +1,6 @@
 {
   "name": "obj-unflatten",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Convert flatten objects in nested ones.",
   "main": "lib/index.js",
   "directories": {
@@ -16,7 +16,7 @@
     "nested",
     "utility"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -42,12 +42,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
