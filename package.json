@@ -1,6 +1,6 @@
 {
   "name": "obj-unflatten",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Convert flatten objects in nested ones.",
   "main": "lib/index.js",
   "directories": {
@@ -48,6 +48,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
